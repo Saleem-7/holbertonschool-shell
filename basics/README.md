@@ -1,1 +1,2 @@
-mon scipt pwd
+mon scipt pw
+ls:
