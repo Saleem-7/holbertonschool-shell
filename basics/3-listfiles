@@ -1,2 +1,2 @@
-#!/bin/sach
-ls-la
+#!/bin/bash
+ls -la
