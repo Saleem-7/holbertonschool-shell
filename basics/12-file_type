@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%s: ' /tmp/iamafile
+stat -c '/tmp/iamafile: %F' /tmp/iamafile
