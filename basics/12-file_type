@@ -1,2 +1,2 @@
 #i/bin/bash 
-file /tmp/iamafile
+chmod +x 12-file_type
